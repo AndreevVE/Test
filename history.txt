@@ -1,0 +1,10 @@
+ 2050  git log
+ 2051  git commit --amend -m "Edit with ammend"
+ 2052  git log
+ 2053  cat  README.md 
+ 2054  git checkout main 
+ 2055  cat  README.md 
+ 2056  git merge feature 
+ 2057  cat  README.md 
+ 2058  cat .gitignore 
+ 2059  history | tail >> history.txt
